@@ -1,0 +1,3 @@
+01126111|Paracetamol 500mg 16 Tablette|4.90|1
+04345084|Ibuprofen 400mg 20 Tablette|6.90|1
+00999848|Wundsalbe Dexpanthenol 20g|8.50|1
